@@ -1,6 +1,6 @@
 ---
 summary: 'Fix all the issues found during peer & browser testing.'
-time: '1 hour'
+time: '2 hours'
 deliverables: 'Working website'
 ---
 
